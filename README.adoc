@@ -2,6 +2,8 @@
 
 Here is some example text
 
+WARNING: foomangle
+
 = Test 1
 This is some text about a thing. With bells on.
 
@@ -12,5 +14,7 @@ CAUTION: pooballoon
 Roses `are blue` +
 Poobers are red
 
-bag `example code` +
-woo `bllllll coop`
+NOTE: garangle
+
+`example code` +
+`bllllll coop`
